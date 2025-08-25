@@ -24,7 +24,7 @@ data:
     - My First Group:
         - My First Service:
           href: http://localhost:9000
-            description: Mealie
+          description: Mealie
 
     - My Second Group:
         - My Second Service:
